@@ -1,0 +1,1 @@
+This project implements a non-invasive framework for detecting cardiovascular abnormalities—specifically Myocardial Infarction (MI)—by analyzing Photoplethysmogram (PPG) signals. By leveraging a Random Forest classifier and advanced digital signal processing, the system distinguishes between healthy physiological states and MI with high precision.
